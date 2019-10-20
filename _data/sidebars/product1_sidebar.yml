@@ -3,58 +3,30 @@
 
 entries:
 - title: Sidebar
-  product: Product1
-  version: 1.0
+  product: MockingjayWong的博客
+  version: 
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
+  - title: 个人相关
+    output: web
     folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
-  - title: Getting Started
-    output: web, pdf
-    folderitems:
-    - title: Product 1 home
-      url: /p1_landing_page.html
+    - title: 简介
+      url: /introduction.html
       output: web
 
-    - title: Sample 1
-      url: /p1_sample1.html
-      output: web, pdf
-
-    - title: Sample 2
-      url: /p1_sample2.html
-      output: web, pdf
-
-    - title: Sample 3
-      url: /p1_sample3.html
-      output: web, pdf
-
-  - title: Another heading
-    output: web, pdf
-
+  - title: 博客分类
+    output: web
     folderitems:
-    - title: Sample 4
-      url: /p1_sample4.html
-      output: web, pdf
 
-    - title: Sample 5
-      url: /p1_sample5.html
-      output: web, pdf
+    - title: 博客Xmind图记录
+      url: /mydoc_tag_archives_overview.html
+      output: web
 
-    - title: Sample 6
-      url: /p1_sample6.html
-      output: web, pdf
+      subfolders:
+      - title: Jekyll模板博客实践
+        output: web
+        subfolderitems:
 
-    - title: Sample 7
-      url: /p1_sample7.html
-      output: web, pdf
+        - title: Jekyll模板使用错误记录
+          url: /jekyll_developing.html
+          output: web
