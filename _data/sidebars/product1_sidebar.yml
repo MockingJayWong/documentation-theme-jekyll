@@ -11,7 +11,7 @@ entries:
     output: web
     folderitems:
     - title: 简介
-      url: /introduction.html
+      url: /index.html
       output: web
 
   - title: 博客分类
@@ -23,10 +23,16 @@ entries:
       output: web
 
       subfolders:
-      - title: Jekyll模板博客实践
+      - title: 框架部署
         output: web
         subfolderitems:
-
         - title: Jekyll模板使用错误记录
           url: /jekyll_developing.html
           output: web
+
+      - title: Leetcode刷题
+        output: web
+        subfolderitems:
+        - title: leetcode
+          url: /jekyll_developing.html
+          output: web        

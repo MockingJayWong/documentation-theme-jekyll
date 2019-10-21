@@ -15,8 +15,8 @@ entries:
       url: /mydoc_introduction.html
       output: web
     - title: MockingjayWong
-      url: /introduction.html
+      url: /index.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
-      output: web
+    # - title: Product 2
+    #   url: /p2_landing_page.html
+    #   output: web

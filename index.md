@@ -3,7 +3,7 @@ title: "Getting started with the Documentation Theme for Jekyll"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: index.html
+permalink: mydoc_index.html
 summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
@@ -183,7 +183,7 @@ entries:
     folderitems:
 
     - title: Get started
-      url: /index.html
+      url: /mydoc_index.html
       output: web, pdf
       type: homepage
 

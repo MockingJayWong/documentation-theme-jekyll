@@ -3,7 +3,7 @@ title: 个人简介
 keywords: introduce,introduction,简介
 summary: "给自己留一个脚印"
 sidebar: product1_sidebar
-permalink: introduction.html
+permalink: index.html
 folder: product1
 ---
 
